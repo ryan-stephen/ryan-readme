@@ -1,4 +1,4 @@
 # ryan-readme
-A test readme to understand GitHub
-I'm testing the branch version of readme
-It's easy to work with.
+Hello!
+As a technical writer, I'm always open to contribution.
+Give me a shout for help with documentation, code check and everything in between. :)
